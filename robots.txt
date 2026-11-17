@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ussuriysk.yanji-yanji.ru/sitemap.xml
